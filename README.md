@@ -1,0 +1,2 @@
+# Actividad-1---Introducci-n-al-Grid
+ Introducción Hemos comenzado a revisar un segundo módulo de las hojas de estilo versión 3, popularmente conocidas como CSS3. Este nuevo módulo basa su concepto en definir cuadrículas a través del espacio de contenido. En esta actividad te presentaremos un pequeño proyecto, tienes una página Web, con su hoja de estilo y revisaremos algunas propiedades de este módulo, pero queremos que el resultado final sea un poco diferente a como se ve hasta el momento. Vamos a continuar estudiando y trabajar en lo que hemos aprendido.
